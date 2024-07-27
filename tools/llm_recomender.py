@@ -20,7 +20,7 @@ def recommend_model(gpu_memory_available):
     quantization_data = load_quantization()
 
     # Ordered by performance
-    performance_order = ["LLAMA 2", "FALCON", "Mistral", "Vicuna"]
+    performance_order = ["LLAMA 3.1","LLAMA 3","LLAMA 2", "FALCON", "Mistral", "Vicuna"]
     suitable_models = []
 
     for model in base_models:
