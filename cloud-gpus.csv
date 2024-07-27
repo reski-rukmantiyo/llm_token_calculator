@@ -71,6 +71,14 @@ Cudo Compute,A4000 (16 GB),Ampere,8,64,64,128,2.89,0.29,,
 Cudo Compute,A4000 (16 GB),Ampere,8,64,64,128,2.99,0.30,,
 Cudo Compute,A5000 (24 GB),Ampere,8,192,64,128,4.73,0.52,,
 Cudo Compute,A6000 (48 GB),Ampere,8,384,64,128,6.81,0.78,,
+Cloudeka,H100 SXM (80 GB),Hopper,1,80,16,128,5.63,4.60,,h100-1xlarge
+Cloudeka,H100 SXM (80 GB),Hopper,2,160,32,256,11.26,4.60,,h100-2xlarge
+Cloudeka,H100 SXM (80 GB),Hopper,4,320,64,512,22.52,4.60,,h100-4xlarge
+Cloudeka,H100 SXM (80 GB),Hopper,8,640,128,1024,45.04,4.60,,h100-8xlarge
+Cloudeka,L40S (48G GB),Ampere,1,48,16,128,3.21,1.5,,l40s-1xlarge
+Cloudeka,L40S (48G GB),Ampere,2,96,32,256,6.42,1.5,,l40s-2xlarge
+Cloudeka,L40S (48G GB),Ampere,4,192,64,512,12.84,1.5,,l40s-4xlarge
+Cloudeka,L40S (48G GB),Ampere,8,384,128,1024,25.68,1.5,,l40s-8xlarge
 Datacrunch,A100 (80 GB),Ampere,1,80,22,120,1.85,1.85,,1A100.22V
 Datacrunch,A100 (80 GB),Ampere,2,160,44,240,3.70,1.85,,2A100.44V
 Datacrunch,A100 (80 GB),Ampere,4,320,88,480,7.40,1.85,,4A100.88V
